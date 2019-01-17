@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="10" tilewidth="32" tileheight="32" nextobjectid="3">
+ <tileset firstgid="1" name="Tileset1" tilewidth="32" tileheight="32" margin="8" tilecount="165" columns="15">
+  <image source="Tileset1.png" width="512" height="384"/>
+ </tileset>
+ <layer name="Walls" width="20" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAxNjYGAQG+SYWoDW5lHqP1qbRymglXmDGQMA3CLgISADAAA=
+  </data>
+ </layer>
+ <layer name="firstStraight" width="20" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAVDEYjhweQAESIwKWZT2zx8/qXU7/gAAKcqvFwgAwAA
+  </data>
+ </layer>
+ <layer name="secondStraight" width="20" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHxADAlTA4hA8WA0T2yQmzfSAQAycH7oIAMAAA==
+  </data>
+ </layer>
+ <layer name="thirdStraight" width="20" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgoC4QowJGN0+EQkxL86jh91EweAEAdc8YUSADAAA=
+  </data>
+ </layer>
+ <layer name="fourthStraight" width="20" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWUADEgFoFisUFuHjUALcyD4cEIABIL7gAgAwAA
+  </data>
+ </layer>
+ <layer name="fifthStraight" width="20" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWDFYjhwOQCERx4sJhHbf9SAwAArjJfZCADAAA=
+  </data>
+ </layer>
+ <layer name="lap" width="20" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAUjHZQNcvMGEgAAr+UbpCADAAA=
+  </data>
+ </layer>
+</map>
